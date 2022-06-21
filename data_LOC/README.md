@@ -1,2 +1,4 @@
-Download the location from the Lunar Orbiter Data Website following the instructions from:
+Download the location file products (.LOC) from the Lunar Orbiter Data Website.
+
+Following the instructions from:
 https://github.com/github/ines-torres/M3-data-processing/Lunar_orbiter_data_products.ipynb
